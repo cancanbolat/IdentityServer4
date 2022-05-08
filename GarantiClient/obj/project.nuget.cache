@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xV6fMZhBCXqibVyjk4SW7HBtYETMVuo++WCAkXzGJ2O+EGxXsbR565/euAfpIlZIIvnj1/Y8y7rm4YH56IbRwg==",
+  "success": true,
+  "projectFilePath": "e:\\CAN\\repos-D\\LearnIdentityServer4\\GarantiClient\\GarantiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\identitymodel\\5.1.0\\identitymodel.5.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
